@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="C:\Users\Administrator\Desktop\Tree\Tree.workspace">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\Administrator\Desktop\Tree\Tree.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="C:\Users\Administrator\Desktop\Tree\BiTree\queue.c" Name="FileName"/>
+      <int Value="4" Name="FirstVisibleLine"/>
+      <int Value="15" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Administrator\Desktop\Tree\BiTree\bitree.c" Name="FileName"/>
+      <int Value="34" Name="FirstVisibleLine"/>
+      <int Value="114" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds">
+        <IntVectorItem Value="26"/>
+        <IntVectorItem Value="68"/>
+        <IntVectorItem Value="78"/>
+        <IntVectorItem Value="88"/>
+        <IntVectorItem Value="98"/>
+      </IntVector>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>

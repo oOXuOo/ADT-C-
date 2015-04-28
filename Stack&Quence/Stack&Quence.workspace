@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Stack&amp;Quence" Database="">
+  <Project Name="Stack" Path="Stack/Stack.project" Active="No"/>
+  <Project Name="queue_simulate" Path="queue_simulate/queue_simulate.project" Active="No"/>
+  <Project Name="Queue" Path="Queue/Queue.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="Stack" ConfigName="Debug"/>
+      <Project Name="queue_simulate" ConfigName="Debug"/>
+      <Project Name="Queue" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="Stack" ConfigName="Release"/>
+      <Project Name="queue_simulate" ConfigName="Release"/>
+      <Project Name="Queue" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

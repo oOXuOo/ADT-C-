@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="LinearList" Database="">
+  <Project Name="SinglyLinkedList" Path="SinglyLinkedList/SinglyLinkedList.project" Active="Yes"/>
+  <Project Name="DoublyLinkedList" Path="DoublyLinkedList/DoublyLinkedList.project"/>
+  <Project Name="CircularLinkedList" Path="CircularLinkedList/CircularLinkedList.project"/>
+  <Project Name="SequenceList" Path="SequenceList/SequenceList.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="SinglyLinkedList" ConfigName="Debug"/>
+      <Project Name="DoublyLinkedList" ConfigName="Debug"/>
+      <Project Name="CircularLinkedList" ConfigName="Debug"/>
+      <Project Name="SequenceList " ConfigName="Debug"/>
+      <Project Name="SequenceList" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="SinglyLinkedList" ConfigName="Release"/>
+      <Project Name="DoublyLinkedList" ConfigName="Release"/>
+      <Project Name="CircularLinkedList" ConfigName="Release"/>
+      <Project Name="SequenceList " ConfigName="Release"/>
+      <Project Name="SequenceList" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

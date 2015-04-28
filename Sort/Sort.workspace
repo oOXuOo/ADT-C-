@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sort" Database="">
+  <Project Name="InsertSort" Path="InsertSort/InsertSort.project" Active="No"/>
+  <Project Name="ShellSort" Path="ShellSort/ShellSort.project" Active="No"/>
+  <Project Name="QuickSort" Path="QuickSort/QuickSort.project" Active="No"/>
+  <Project Name="MergeSort" Path="MergeSort/MergeSort.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="InsertSort" ConfigName="Debug"/>
+      <Project Name="ShellSort" ConfigName="Debug"/>
+      <Project Name="QuickSort" ConfigName="Debug"/>
+      <Project Name="MergeSort" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="InsertSort" ConfigName="Release"/>
+      <Project Name="ShellSort" ConfigName="Release"/>
+      <Project Name="QuickSort" ConfigName="Release"/>
+      <Project Name="MergeSort" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

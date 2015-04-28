@@ -1,0 +1,1 @@
+./Debug/main.c.o ./Debug/bitree.c.o ./Debug/queue.c.o   
